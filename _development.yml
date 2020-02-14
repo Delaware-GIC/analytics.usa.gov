@@ -1,0 +1,5 @@
+
+url: https://analytics.delaware.gov/
+# Use production data by default.
+# To pull from dev data for home page, uncomment:
+data_url: https://analytics.delaware.gov/data
